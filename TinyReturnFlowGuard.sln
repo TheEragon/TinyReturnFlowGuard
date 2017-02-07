@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26127.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TinyReturnFlowGuard", "TinyReturnFlowGuard.vcxproj", "{940A78EB-65DD-4897-B959-EE3F0876AE8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		ReleaseRfEnabled|x64 = ReleaseRfEnabled|x64
+		ReleaseRfEnabled|x86 = ReleaseRfEnabled|x86
+		ReleaseRfInstrumented|x64 = ReleaseRfInstrumented|x64
+		ReleaseRfInstrumented|x86 = ReleaseRfInstrumented|x86
+		ReleaseRfStrict|x64 = ReleaseRfStrict|x64
+		ReleaseRfStrict|x86 = ReleaseRfStrict|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{940A78EB-65DD-4897-B959-EE3F0876AE8B}.Debug|x64.ActiveCfg = Debug|x64
+		{940A78EB-65DD-4897-B959-EE3F0876AE8B}.Debug|x64.Build.0 = Debug|x64
+		{940A78EB-65DD-4897-B959-EE3F0876AE8B}.Debug|x86.ActiveCfg = Debug|Win32
+		{940A78EB-65DD-4897-B959-EE3F0876AE8B}.Debug|x86.Build.0 = Debug|Win32
+		{940A78EB-65DD-4897-B959-EE3F0876AE8B}.Release|x64.ActiveCfg = Release|x64
+		{940A78EB-65DD-4897-B959-EE3F0876AE8B}.Release|x64.Build.0 = Release|x64
+		{940A78EB-65DD-4897-B959-EE3F0876AE8B}.Release|x86.ActiveCfg = Release|Win32
+		{940A78EB-65DD-4897-B959-EE3F0876AE8B}.Release|x86.Build.0 = Release|Win32
+		{940A78EB-65DD-4897-B959-EE3F0876AE8B}.ReleaseRfEnabled|x64.ActiveCfg = ReleaseRfEnabled|x64
+		{940A78EB-65DD-4897-B959-EE3F0876AE8B}.ReleaseRfEnabled|x64.Build.0 = ReleaseRfEnabled|x64
+		{940A78EB-65DD-4897-B959-EE3F0876AE8B}.ReleaseRfEnabled|x86.ActiveCfg = ReleaseRfEnabled|Win32
+		{940A78EB-65DD-4897-B959-EE3F0876AE8B}.ReleaseRfEnabled|x86.Build.0 = ReleaseRfEnabled|Win32
+		{940A78EB-65DD-4897-B959-EE3F0876AE8B}.ReleaseRfInstrumented|x64.ActiveCfg = ReleaseRfInstrumented|x64
+		{940A78EB-65DD-4897-B959-EE3F0876AE8B}.ReleaseRfInstrumented|x64.Build.0 = ReleaseRfInstrumented|x64
+		{940A78EB-65DD-4897-B959-EE3F0876AE8B}.ReleaseRfInstrumented|x86.ActiveCfg = ReleaseRfInstrumented|Win32
+		{940A78EB-65DD-4897-B959-EE3F0876AE8B}.ReleaseRfInstrumented|x86.Build.0 = ReleaseRfInstrumented|Win32
+		{940A78EB-65DD-4897-B959-EE3F0876AE8B}.ReleaseRfStrict|x64.ActiveCfg = ReleaseRfStrict|x64
+		{940A78EB-65DD-4897-B959-EE3F0876AE8B}.ReleaseRfStrict|x64.Build.0 = ReleaseRfStrict|x64
+		{940A78EB-65DD-4897-B959-EE3F0876AE8B}.ReleaseRfStrict|x86.ActiveCfg = ReleaseRfStrict|Win32
+		{940A78EB-65DD-4897-B959-EE3F0876AE8B}.ReleaseRfStrict|x86.Build.0 = ReleaseRfStrict|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
